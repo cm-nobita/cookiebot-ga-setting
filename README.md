@@ -1,1 +1,0 @@
-# cookiebot-ga-setting
